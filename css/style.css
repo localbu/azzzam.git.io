@@ -351,7 +351,7 @@ section {
         display: flex;
         flex-direction: column;
         text-align: center;
-        background: #ffffff;
+        background: white;
         transition: 1s;
     }
     header .navbar.active{
@@ -360,6 +360,7 @@ section {
     .navbar a{
         padding: 1rem;
         display: block;
+
     }
     .col{
         width: 50%;
